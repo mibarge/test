@@ -47,8 +47,7 @@ You can also include plain old html.
 <hr>
 
 ## Emoji Codes
-
- :smile:
+ 
  :city_sunrise:
  
 See the Cheatsheet for more http://www.webpagefx.com/tools/emoji-cheat-sheet/
