@@ -1,3 +1,3 @@
-## Welcome to page 2
+<h2>Welcome to page 2<h2>
 
-This, I hope will also use the theme.
+<p>This, I hope will also use the theme.</p>
