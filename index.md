@@ -26,15 +26,14 @@ Syntax highlighted code block
 ## Links and Images
 [Link](url) and ![Image](src)
 
-Here's a link explaining how to customise your github styles and template file:
+```
 
+Here's a link explaining how to customise your github styles and template file:
 [Customising Github Pages](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
 
 Here's an example of an image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
