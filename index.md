@@ -51,11 +51,6 @@ You can also include plain old html.
  :city_sunrise:
  
 See the [Emoji Cheatsheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) for more.
-
-## Sounds
-
-/play crickets
-/play letitgo
  
 ---
 
