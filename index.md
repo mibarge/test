@@ -49,6 +49,8 @@ You can also include plain old html.
 ## Emoji Codes
  
  :city_sunrise:
+ :helicopter:
+ :hourglass_flowing_sand:
  
 See the [Emoji Cheatsheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) for more.
  
