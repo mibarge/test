@@ -33,7 +33,7 @@ Here's a link explaining how to customise your github styles and template file:
 
 Here's an example of an image
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png =250px)
 
 You can also include plain old html. The exercise below uses the iframe embed code to include an H5P exercise.
 
