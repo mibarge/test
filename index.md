@@ -37,8 +37,8 @@ Here's an example of an image
 
 You can also include plain old html. 
 
-1) Here is the same image using HTML src code:
-<img src="https://octodex.github.com/images/yaktocat.png" style="width:200px;">
+1) Here is the same image using HTML src code:       
+<img src="https://octodex.github.com/images/yaktocat.png" style="width:200px;" />
 
 2) The exercise below uses the iframe embed code to include an H5P exercise.
 
