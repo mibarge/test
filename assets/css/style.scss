@@ -11,5 +11,6 @@ background-color:aliceblue;
 	color: #fff;
 	text-align: center;
 	background-color: #159957;
-	background-image: linear-gradient(120deg, #4A2884, #46AE7A);
+	/*background-image: linear-gradient(120deg, #4A2884, #46AE7A);*/
+	background-image: linear-gradient( to right, blue, blue 25%, white 35%, white 65%, red 75%);
 }
